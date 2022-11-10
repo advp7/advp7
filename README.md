@@ -6,8 +6,8 @@
 
 
 - 🌱 I’m currently learning **React, Flutter.**
-- 👯 I’m looking to collaborate on **Front End Development**
-- 📫 How to reach me - **advaith1601@gmail.com**
+- 👯 I’m looking to collaborate on **Frontend Development.**
+- 📫 How to reach me: **advaith1601@gmail.com**
 
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
