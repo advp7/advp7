@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Advaith
-- 👀 I’m interested in Frontend Development and UI Design!
-- 🌱 I’m currently learning React, Flutter
+- 👀 I’m interested in Frontend Development and UI Design.
+- 🌱 I’m currently learning React, Flutter.
 - 📫 How to reach me - advaith1601@gmail.com
 
 <!---
