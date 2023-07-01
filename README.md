@@ -6,7 +6,7 @@
 <a href="https://twitter.com/advp007" target="blank"><img src="https://img.shields.io/twitter/follow/advp007?logo=twitter&style=for-the-badge" alt="advp007" /></a>&nbsp;
 </p>
 <p align="left"> 
-<a href="https://www.linkedin.com/in/subin-sk-9b767219a/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"></a>
+<a href="https://www.linkedin.com/in/advaith-praveen"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"></a>
 </p>
 
 - 🌱 I’m currently learning **React, Flutter.**
