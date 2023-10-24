@@ -17,9 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advp7&hide_progress=true)
 
-<p align="left">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 
 <!---
 advp7/advp7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
