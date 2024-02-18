@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/advaith-praveen"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"></a>
 </p>
 
-- 🌱 I’m currently learning **React, Flutter.**
+- 🌱 I’m currently learning **React, Nextjs.**
 - 👯 I’m looking to collaborate on **Frontend Development.**
 - 📫 How to reach me: **advaith1601@gmail.com**
 
